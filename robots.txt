@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shhae.github.io/TgX/sitemap.TgX.gz
